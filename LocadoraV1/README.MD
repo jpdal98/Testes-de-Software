@@ -1,6 +1,6 @@
 # Aula de introdução a testes 
 Neste projeto foram introduzidos os seguintes assuntos:
-- Junit
+- Junit 4
 - Assertivas
 - Formas de dividir e organizar um teste
 - Testes voltados para tratamento de exceções
